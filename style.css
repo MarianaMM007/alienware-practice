@@ -19,3 +19,26 @@ body{
   float:right;
   color:white;
 }
+
+.bg-pic-2{
+  background-image: url("https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/page/alienware/aw-site-banner-template-1600x700-imageleft-notext-with-logo.jpg?fmt=png-alpha&wid=1600&hei=700");
+   background-size: 100% 550px;
+   height:1500px;
+   width: 100%;
+   background-repeat:no-repeat;
+   margin:0;
+   border:0;
+   padding:20px;
+}
+
+.text-2{
+  float:right;
+  color:black;
+}
+
+button{
+  margin:0;
+  border:0;
+  padding:10px;
+  font-size:10px;
+}
